@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fb076f54-59ed-45bf-b0ee-8b89d582055d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/CGT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/REL_vertical_tab.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/test.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/db_cgt.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/DO_NOT_DELETE_7.4.33.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/deplister.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/dev/php7ts.lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/ext/php_bz2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/ext/php_com_dotnet.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/ext/php_curl.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/ext/php_dba.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/ext/php_enchant.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/ext/php_exif.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/ext/php_ffi.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/ext/php_fileinfo.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/ext/php_ftp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/ext/php_gd2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/ext/php_gettext.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/ext/php_gmp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/ext/php_imap.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/ext/php_intl.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/ext/php_ldap.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/ext/php_mbstring.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/ext/php_mysqli.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/ext/php_oci8_12c.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/ext/php_odbc.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/ext/php_opcache.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/ext/php_openssl.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/ext/php_pdo_firebird.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/ext/php_pdo_mysql.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/ext/php_pdo_oci.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/ext/php_pdo_odbc.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/ext/php_pdo_pgsql.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/ext/php_pdo_sqlite.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/ext/php_pgsql.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/ext/php_phpdbg_webhelper.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/ext/php_shmop.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/ext/php_snmp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/ext/php_soap.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/ext/php_sockets.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/ext/php_sodium.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/ext/php_sqlite3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/ext/php_sysvshm.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/ext/php_tidy.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/ext/php_xmlrpc.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/ext/php_xsl.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/ext/php_zend_test.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/extras/ssl/openssl.cnf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/glib-2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/gmodule-2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/icudt66.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/icuin66.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/icuio66.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/icuuc66.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/lib/enchant/libenchant_ispell.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/lib/enchant/libenchant_myspell.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/libcrypto-1_1-x64.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/libenchant.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/libpq.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/libsasl.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/libsodium.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/libsqlite3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/libssh2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/libssl-1_1-x64.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/news.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/nghttp2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/phar.phar.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/pharcommand.phar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/php-cgi.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/php-win.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/php.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/php.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/php.ini-development" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/php.ini-production" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/php7apache2_4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/php7embed.lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/php7phpdbg.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/php7ts.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/phpForApache.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/phpdbg.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/readme-redist-bins.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/sasl2/saslANONYMOUS.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/sasl2/saslCRAMMD5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/sasl2/saslDIGESTMD5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/sasl2/saslLOGIN.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/sasl2/saslNTLM.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/sasl2/saslOTP.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/sasl2/saslPLAIN.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/sasl2/saslSASLDB.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/sasl2/saslSCRAM.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/sasl2/saslSQLITE.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/snapshot.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/wampserver.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php7.4.33/zend_ext/php_xdebug-3.1.5-7.4-vc15-x86_64.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/deplister.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/dev/php8ts.lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/ext/php_bz2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/ext/php_com_dotnet.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/ext/php_curl.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/ext/php_dba.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/ext/php_enchant.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/ext/php_exif.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/ext/php_ffi.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/ext/php_fileinfo.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/ext/php_ftp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/ext/php_gd.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/ext/php_gettext.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/ext/php_gmp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/ext/php_imap.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/ext/php_intl.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/ext/php_ldap.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/ext/php_mbstring.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/ext/php_mysqli.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/ext/php_oci8_19.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/ext/php_odbc.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/ext/php_opcache.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/ext/php_openssl.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/ext/php_pdo_firebird.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/ext/php_pdo_mysql.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/ext/php_pdo_oci.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/ext/php_pdo_odbc.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/ext/php_pdo_pgsql.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/ext/php_pdo_sqlite.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/ext/php_pgsql.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/ext/php_phpdbg_webhelper.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/ext/php_shmop.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/ext/php_snmp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/ext/php_soap.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/ext/php_sockets.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/ext/php_sodium.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/ext/php_sqlite3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/ext/php_sysvshm.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/ext/php_tidy.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/ext/php_xsl.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/ext/php_zend_test.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/extras/ssl/openssl.cnf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/glib-2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/gmodule-2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/icudt68.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/icuin68.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/icuio68.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/icuuc68.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/lib/enchant/libenchant2_hunspell.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/libcrypto-1_1-x64.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/libenchant2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/libpq.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/libsasl.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/libsodium.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/libsqlite3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/libssh2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/libssl-1_1-x64.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/news.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/nghttp2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/phar.phar.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/pharcommand.phar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/php-cgi.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/php-win.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/php.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/php.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/php.ini-development" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/php.ini-production" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/php8apache2_4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/php8embed.lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/php8phpdbg.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/php8ts.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/phpForApache.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/phpdbg.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/readme-redist-bins.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/snapshot.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/wampserver.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.0.26/zend_ext/php_xdebug-3.1.6-8.0-vs16-x86_64.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/deplister.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/dev/php8ts.lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/ext/php_bz2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/ext/php_com_dotnet.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/ext/php_curl.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/ext/php_dba.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/ext/php_dl_test.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/ext/php_enchant.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/ext/php_exif.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/ext/php_ffi.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/ext/php_fileinfo.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/ext/php_ftp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/ext/php_gd.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/ext/php_gettext.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/ext/php_gmp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/ext/php_imap.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/ext/php_intl.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/ext/php_ldap.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/ext/php_mbstring.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/ext/php_mysqli.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/ext/php_oci8_19.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/ext/php_odbc.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/ext/php_opcache.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/ext/php_openssl.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/ext/php_pdo_firebird.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/ext/php_pdo_mysql.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/ext/php_pdo_oci.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/ext/php_pdo_odbc.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/ext/php_pdo_pgsql.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/ext/php_pdo_sqlite.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/ext/php_pgsql.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/ext/php_shmop.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/ext/php_snmp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/ext/php_soap.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/ext/php_sockets.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/ext/php_sodium.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/ext/php_sqlite3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/ext/php_sysvshm.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/ext/php_tidy.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/ext/php_xsl.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/ext/php_zend_test.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/extras/ssl/openssl.cnf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/glib-2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/gmodule-2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/icudt70.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/icuin70.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/icuio70.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/icuuc70.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/lib/enchant/libenchant2_hunspell.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/libcrypto-1_1-x64.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/libenchant2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/libpq.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/libsasl.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/libsodium.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/libsqlite3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/libssh2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/libssl-1_1-x64.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/news.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/nghttp2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/phar.phar.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/pharcommand.phar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/php-cgi.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/php-win.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/php.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/php.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/php.ini-development" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/php.ini-production" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/php8apache2_4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/php8embed.lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/php8phpdbg.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/php8ts.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/phpForApache.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/phpdbg.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/readme-redist-bins.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/snapshot.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/wampserver.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.1.13/zend_ext/php_xdebug-3.1.6-8.1-vs16-x86_64.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/deplister.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/dev/php8ts.lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/ext/php_bz2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/ext/php_com_dotnet.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/ext/php_curl.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/ext/php_dba.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/ext/php_dl_test.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/ext/php_enchant.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/ext/php_exif.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/ext/php_ffi.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/ext/php_fileinfo.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/ext/php_ftp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/ext/php_gd.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/ext/php_gettext.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/ext/php_gmp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/ext/php_imap.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/ext/php_intl.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/ext/php_ldap.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/ext/php_mbstring.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/ext/php_mysqli.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/ext/php_oci8_19.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/ext/php_odbc.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/ext/php_opcache.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/ext/php_openssl.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/ext/php_pdo_firebird.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/ext/php_pdo_mysql.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/ext/php_pdo_oci.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/ext/php_pdo_odbc.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/ext/php_pdo_pgsql.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/ext/php_pdo_sqlite.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/ext/php_pgsql.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/ext/php_shmop.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/ext/php_snmp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/ext/php_soap.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/ext/php_sockets.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/ext/php_sodium.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/ext/php_sqlite3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/ext/php_sysvshm.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/ext/php_tidy.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/ext/php_xsl.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/ext/php_zend_test.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/ext/php_zip.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/extras/ssl/openssl.cnf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/glib-2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/gmodule-2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/icudt71.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/icuin71.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/icuio71.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/icuuc71.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/lib/enchant/libenchant2_hunspell.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/libcrypto-3-x64.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/libenchant2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/libpq.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/libsasl.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/libsodium.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/libsqlite3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/libssh2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/libssl-3-x64.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/news.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/nghttp2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/phar.phar.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/pharcommand.phar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/php-cgi.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/php-win.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/php.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/php.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/php.ini-development" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/php.ini-production" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/php8apache2_4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/php8embed.lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/php8phpdbg.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/php8ts.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/phpForApache.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/phpdbg.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/readme-redist-bins.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/snapshot.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/wampserver.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backup/php_ini/php8.2.0/zend_ext/php_xdebug-3.2.0-8.2-vs16-x86_64.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CGT_Connexion_DB.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IMG/Capture d'écran 2024-01-21 225734.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IMG/Capture d'écran 2024-03-18 160137.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IMG/big-mama.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Password_utilisateur.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VIDEO/WIN_20240107_19_47_21_Pro.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VIDEO/julien_moi.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_articles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_categories.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_comment_action.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_Form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_messages.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_notification_count.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin_notification_mark_as_read.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ajouter_utilisateur.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delete_articles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edit_articles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/get_articles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/delete_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/edit_icon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/exemple_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_cgt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/poubelle_ferme.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/poubelle_ouverte.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nav_bar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oublie_mdp.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phpinfo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sign_up.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles copy.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/traitement_contact.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verification_log.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\wamp64\bin\php\php8.2.0\php.exe" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2faSqV8ZJc0rZE6R21XAgSExsW5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/wamp64/www/CGT",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PS-241.15989.102" />
+        <option value="bundled-php-predefined-ba97393d7c68-c76157a7178b-com.jetbrains.php.sharedIndexes-PS-241.15989.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb076f54-59ed-45bf-b0ee-8b89d582055d" name="Changes" comment="" />
+      <created>1714037886960</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714037886960</updated>
+      <workItem from="1714037888069" duration="1455000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

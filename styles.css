@@ -1,0 +1,323 @@
+/* Styles pour la barre de navigation responsive */
+.navbar {
+  background-color: #f8f9fa;
+  padding: 10px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 9999;
+  background-color: rgb(232, 83, 64);
+}
+
+.navbar-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: #333;
+  text-decoration: none;
+}
+
+.navbar-toggler {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  padding: 5px;
+}
+
+.navbar-toggler:focus {
+  outline: none;
+}
+
+.navbar-toggler-icon {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  background-color: #333;
+  border-radius: 2px;
+}
+
+.navbar-nav {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+}
+
+.nav-item {
+  margin-left: 10px;
+}
+
+.nav-link {
+  color: #333;
+  text-decoration: none;
+}
+
+.nav-link:hover {
+  color: white;
+  text-decoration: none;
+}
+
+/* Styles pour le contenu principal de la page */
+body {
+  background-color: transparent;
+  color: black;
+  font-size: 8pt;
+  font-family: Arial,sans-serif;
+  font-weight: normal;
+}
+
+/* Styles pour le formulaire responsive */
+.form-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+  width: 90%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+button[type="submit"] {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button[type="submit"]:hover {
+  background-color: #555;
+}
+
+@media screen and (max-width: 600px) {
+  .form-container {
+    max-width: 100%;
+    padding: 10px;
+  }
+}
+
+/* Afficher les articles dans des blocs */
+
+/* Styles pour les articles */
+.article {
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+.article-title {
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+.article-description {
+  margin-bottom: 10px;
+}
+
+.article-image {
+  max-width: 100%;
+  margin-bottom: 10px;
+}
+
+.comment {
+  margin-bottom: 10px;
+}
+
+.comment-author {
+  font-weight: bold;
+}
+
+.comment-text {
+  margin-top: 5px;
+}
+
+.comment-input {
+  width: 100%;
+  padding: 5px;
+  margin-top: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.comment-submit {
+  background-color: #333;
+  color: #fff;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.comment-submit:hover {
+  background-color: #555;
+}
+
+.articles {
+  margin-left: 25%;
+  text-align: center;
+  border: 1px solid black;
+  box-shadow: 2px 2px 4px 1px grey;
+  width: 50%;
+  border-radius: 10px;
+  height: auto;
+}
+
+.filtre {
+  text-align: center;
+}
+
+.div_comment {
+  padding: 5px;
+}
+
+.class_com {
+  width: 30%;
+}
+
+.div_img{
+  display: block;
+  width: 30%;
+  margin: auto;
+  height: auto;
+}
+
+.div_icon_supp {
+  width: 15%;
+  display: flex;
+}
+
+.Input_Not_Click {
+  color: red;
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+
+.Non_Visible {
+  display: none;
+}
+
+.Input_Btn {
+  color: red;
+}
+
+/* Pages welcome categorie et articles pour l'administrateur */
+
+.Containeur_categorie {
+  margin-top: 100px;
+  display: flex;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.Containeur_article {
+  margin-top: 100px;
+  display: flex;
+  text-align: center;
+  vertical-align: middle;
+}
+
+/* Page login  */
+
+
+body {
+  background-color: #f5f5f5;
+  font-family: Arial, sans-serif;
+}
+
+.login-container {
+  background-color: #fff;
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 40px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  font-weight: bold;
+}
+
+input[type="text"],
+input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+
+/*--- Fleche pour monter haut de page ---*/
+
+#back-to-top {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 99;
+  font-size: 24px;
+  color: #fff;
+  background-color: #E31800;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  line-height: 40px;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: background-color 0.3s, opacity 0.3s;
+}
+
+#back-to-top:hover {
+  background-color: #555;
+}
+
+
+

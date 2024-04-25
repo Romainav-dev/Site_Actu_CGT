@@ -1,0 +1,116 @@
+body {
+  background-color: rgb(255, 255, 255);
+  color: black;
+  font-size: 9pt;
+  font-family: "Helvetica Rounded", "Arial Rounded MT Bold", Arial, sans-serif;
+  font-weight: normal;
+}
+
+.main_frame_reduced {
+  position: absolute;
+  z-index: 1;
+  top: 68px;
+  left: 14%;
+  width: calc(100% - 13%);
+  height: calc(100% - 70px);
+}
+
+#t_counter {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#t_counter td {
+  vertical-align: middle;
+}
+
+.w3-container:after,
+.w3-container:before,
+.w3-panel:after,
+.w3-panel:before,
+.w3-row:after,
+.w3-row:before,
+.w3-row-padding:after,
+.w3-row-padding:before,
+.w3-cell-row:before,
+.w3-cell-row:after,
+.w3-clear:after,
+.w3-clear:before,
+.w3-bar:before,
+.w3-bar:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.w3-container {
+  padding: 0.01em 16px;
+}
+
+.w3-red-scm1 {
+  color: #000 !important;
+  background-color: #e31800 !important;
+}
+
+.w3-sidebar {
+  height: 100%;
+  width: 200px;
+  background-color: #fff;
+  position: fixed !important;
+  z-index: 1;
+  overflow: auto;
+}
+
+.w3-light-grey,
+.w3-hover-light-grey:hover,
+.w3-light-gray,
+.w3-hover-light-gray:hover {
+  color: #000 !important;
+  background-color: #f1f1f1 !important;
+}
+
+.w3-bar-block .w3-dropdown-hover,
+.w3-bar-block .w3-dropdown-click {
+  width: 100%;
+}
+.w3-bar-block .w3-dropdown-hover .w3-dropdown-content,
+.w3-bar-block .w3-dropdown-click .w3-dropdown-content {
+  min-width: 100%;
+}
+.w3-bar-block .w3-dropdown-hover .w3-button,
+.w3-bar-block .w3-dropdown-click .w3-button {
+  width: 100%;
+  text-align: left;
+  padding: 8px 16px;
+}
+
+.w3-bar-block .w3-bar-item {
+  width: 100%;
+  display: block;
+  padding: 8px 16px;
+  text-align: left;
+  border: none;
+  white-space: normal;
+  float: none;
+  outline: 0;
+}
+.w3-bar-block.w3-center .w3-bar-item {
+  text-align: center;
+}
+.w3-block {
+  display: block;
+  width: 100%;
+}
+
+.w3-hide-small {
+  display: none !important;
+}
+.w3-mobile {
+  display: block;
+  width: 100% !important;
+}
+.w3-bar-item.w3-mobile,
+.w3-dropdown-hover.w3-mobile,
+.w3-dropdown-click.w3-mobile {
+  text-align: center;
+}
